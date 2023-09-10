@@ -1,5 +1,6 @@
 # Text_classification
-Text classification based on sentiment analysis for Natural Languages Processing course
+Text classification based on sentiment analysis for the Natural Languages Processing course.
+
 Sentiment analysis is a technique used in natural language processing to identify and extract subjective information from text data and determine the prevailing attitude of a particular text. 
 This project aims to predict sentiments in Arabic reviews and assess the accuracy of different models. It involves data preparation, model training, and the use of advanced NLP techniques like BERT for sentiment analysis. Results are evaluated using metrics like confusion matrices and classification reports to determine the best-performing models.
 1. Preprocessing: This stage involves preparing the data for analysis. Key preprocessing steps include unpacking texts to remove extra tags and symbols, tokenization to divide text into sentences and words, and formatting to analyze the sentiment and topic of the text.
